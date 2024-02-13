@@ -1,1 +1,1 @@
-magick -size 320x1173 plasma:fractal image.png
+magick -size 320x3000 plasma:fractal image.png
